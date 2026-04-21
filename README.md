@@ -43,6 +43,6 @@ From Amazon & Oracle operations background into low-level systems, cybersecurity
 
 ---
 
-## citationstecken
+##
 
 > Ikke skal jeg gå halt så lenge begge føtter er jamnlange.
