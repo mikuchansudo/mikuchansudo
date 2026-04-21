@@ -18,8 +18,7 @@ From Amazon & Oracle operations background into low-level systems, cybersecurity
 
 ## Current Projects
 
-- GrimStack- x86-64 Assembly low-level toolkit  
-- SecureFileX-Hydra- C file encryption utility  
+- GrimStack- x86-64 Assembly low-level toolkit 
 - More security/system tools in progress
 
 ---
