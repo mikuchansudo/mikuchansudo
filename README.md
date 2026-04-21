@@ -8,7 +8,7 @@ From Amazon & Oracle operations background into low-level systems, cybersecurity
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,git,github,vscode,python" />
@@ -16,15 +16,15 @@ From Amazon & Oracle operations background into low-level systems, cybersecurity
 
 ---
 
-## 🔥 Current Projects
+## Current Projects
 
-- 🧠 GrimStack — x86-64 Assembly low-level toolkit  
-- 🔐 SecureFileX-Hydra — C file encryption utility  
-- ⚙️ More security/system tools in progress
+- GrimStack — x86-64 Assembly low-level toolkit  
+- SecureFileX-Hydra — C file encryption utility  
+- More security/system tools in progress
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikuchansudo&show_icons=true&theme=tokyonight" />
@@ -36,7 +36,7 @@ From Amazon & Oracle operations background into low-level systems, cybersecurity
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sudsuren/
 - GitHub: https://github.com/mikuchansudo
