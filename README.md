@@ -27,10 +27,10 @@ From Amazon & Oracle operations background, now focused on low-level systems, cy
 
 ## Featured Projects
 
-- **SecureFileX-Hydra** — Secure encryption & hashing utility in C  
-- **GrimStack** — Low-level x86-64 toolkit  
-- **Valyron** — Systems programming project  
-- **Honestbuy** — Web product project  
+- **SecureFileX-Hydra** - Secure encryption & hashing utility in C  
+- **GrimStack** - Low-level x86-64 toolkit  
+- **Valyron** - Systems programming project  
+- **Honestbuy** - Web product project  
 
 ## GitHub Analytics
 
