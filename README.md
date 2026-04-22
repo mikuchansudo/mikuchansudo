@@ -1,4 +1,4 @@
-# Hi, I'm Sudeep 👋
+# Hi, I'm Sudeep
 
 Operations • Investigations • C Programming • Assembly • Security Enthusiast
 
