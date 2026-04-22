@@ -15,6 +15,10 @@ From Amazon & Oracle operations background, now focused on low-level systems, cy
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,html,css,js" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Assembly-x86--64-444444?style=for-the-badge&logoColor=white" />
+</p>
+
 ## Current
 
 - C-based tools  
