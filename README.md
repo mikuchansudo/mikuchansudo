@@ -18,12 +18,11 @@ From Amazon & Oracle operations background, now focused on low-level systems, cy
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-## Current Focus
+## Current
 
-- Building serious C-based tools  
-- Learning x86-64 Assembly deeply  
-- Security research & practical labs  
-- Growing a strong public GitHub portfolio  
+- C-based tools  
+- x86-64 Assembly  
+- Security research & practical labs
 
 ## Featured Projects
 
@@ -48,7 +47,9 @@ From Amazon & Oracle operations background, now focused on low-level systems, cy
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mikuchansudo&theme=github-compact&hide_border=true)
 
 Connect With Me
+
 LinkedIn: https://www.linkedin.com/in/sudsuren/ 
+
 GitHub: https://github.com/mikuchansudo 
 
 
