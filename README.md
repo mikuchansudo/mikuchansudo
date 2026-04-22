@@ -11,12 +11,9 @@ From Amazon & Oracle operations background, now focused on low-level systems, cy
 
 ## Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-444444?style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,html,css,js" />
+</p>
 
 ## Current
 
