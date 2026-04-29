@@ -78,4 +78,4 @@ GitHub: https://github.com/mikuchansudo
 
 ---
 
-<p align="center"><i>Ikke skal jeg gå halt så lenge begge føtter er jamnlange.                                                                                       .</i></p>
+<p align="center"><i>Ikke skal jeg gå halt så lenge begge føtter er jamnlange                                                                                       .</i></p>
