@@ -5,7 +5,7 @@ C Systems • Networking • x86-64 Assembly • Practical Engineering
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1400&color=9FB3C8&center=true&vCenter=true&width=700&lines=Building+real+tools+with+C+and+Linux;Concurrency,+Networking,+Low-Level+Systems;Quiet+work.+Clean+design.+Solid+engineering." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1600&color=9FB3C8&center=true&vCenter=true&width=760&lines=C+Programming+%7C+Networking+%7C+x86-64+Assembly;Systems+Projects+for+Learning+and+Growth;Linux+Tools+%7C+Concurrency+%7C+Backend+Foundations" />
 </p>
 
 <p align="center">
@@ -17,14 +17,14 @@ C Systems • Networking • x86-64 Assembly • Practical Engineering
 
 ## About
 
-Former Amazon & Oracle operations background, now focused on building practical software and systems-level projects with clean design principles.
+Former Amazon & Oracle operations background, now focused on building practical software and systems-level projects with clean engineering principles.
 
-Current interests:
+Current focus areas:
 
 - C Programming  
 - Networking Tools  
-- Concurrency  
 - x86-64 Assembly  
+- Concurrency  
 - Linux Environments  
 - Security Labs
 
@@ -82,5 +82,3 @@ LinkedIn: https://www.linkedin.com/in/sudsuren/
 GitHub: https://github.com/mikuchansudo
 
 ---
-
-<p align="center"><i>Ikke skal jeg gå halt så lenge begge føtter er jamnlange.                                                                                  </i></p>
