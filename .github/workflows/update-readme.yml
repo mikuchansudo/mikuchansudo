@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 6 * * *"   # 06:00 UTC
     - cron: "0 18 * * *"  # 18:00 UTC
-  workflow_dispatch:       # lets you trigger it manually too
+  workflow_dispatch:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -44,4 +44,5 @@ jobs:
           git add README.md
           git diff --cached --quiet && echo "No changes to commit" || \
             git commit -m "docs: sync profile stats $(date -u '+%Y-%m-%d')"
+          git pull --rebase
           git push
