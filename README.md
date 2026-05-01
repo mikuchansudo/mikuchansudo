@@ -18,15 +18,7 @@ embedded systems, low-level tooling, and performance-critical infrastructure.
 
 ## stack
 
-![C](https://img.shields.io/badge/C-1D9E75?style=flat&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/x86--64_Assembly-0F6E56?style=flat)
-![Linux](https://img.shields.io/badge/Linux-085041?style=flat&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-444441?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-444441?style=flat&logo=gnubash&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-444441?style=flat)
-![Valgrind](https://img.shields.io/badge/Valgrind-444441?style=flat)
-![POSIX](https://img.shields.io/badge/POSIX-444441?style=flat)
-![Makefile](https://img.shields.io/badge/Makefile-444441?style=flat)
+![C](https://img.shields.io/badge/C-1D9E75?style=flat&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/x86--64_Assembly-0F6E56?style=flat) ![Linux](https://img.shields.io/badge/Linux-085041?style=flat&logo=linux&logoColor=white) ![Python](https://img.shields.io/badge/Python-444441?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-444441?style=flat&logo=gnubash&logoColor=white) ![GDB](https://img.shields.io/badge/GDB-444441?style=flat) ![Valgrind](https://img.shields.io/badge/Valgrind-444441?style=flat) ![POSIX](https://img.shields.io/badge/POSIX-444441?style=flat) ![Makefile](https://img.shields.io/badge/Makefile-444441?style=flat)
 
 ---
 
