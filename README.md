@@ -38,12 +38,12 @@ embedded systems, low-level tooling, and performance-critical infrastructure.
 <!-- projects:start -->
 | project | description | lang | stars | forks |
 |---|---|---|---|---|
-| [NetProbe](https://github.com/mikuchansudo/NetProbe) | Network diagnostics — raw sockets, ICMP, traceroute | C | — | — |
-| [StoneCache](https://github.com/mikuchansudo/StoneCache) | LRU cache engine — O(1) eviction, hash + linked list | C | — | — |
-| [Northhold](https://github.com/mikuchansudo/Northhold) | Multithreaded worker pool — POSIX threads, task queue | C | — | — |
-| [GrimStack](https://github.com/mikuchansudo/GrimStack) | x86-64 toolkit — direct syscalls, stack inspection | Assembly | — | — |
-| [SecureFileX-Hydra](https://github.com/mikuchansudo/SecureFileX-Hydra) | File encryption & hashing — modular CLI in C | C | — | — |
-| [RedKeep](https://github.com/mikuchansudo/RedKeep) | In-memory key-value store — hash maps, simple protocol | C | — | — |
+| [HttpServe](https://github.com/mikuchansudo/HttpServe) | Minimal HTTP server written in C featuring socket handling, request parsing, routing logic, and structured response generation for Linux-based systems. | C | ★ 1 | — |
+| [NetProbe](https://github.com/mikuchansudo/NetProbe) | Network diagnostics tool written in C featuring DNS resolution, port checks, latency testing, and modular Linux-focused systems design. | C | ★ 1 | — |
+| [RedKeep](https://github.com/mikuchansudo/RedKeep) | In-memory key-value store written in C featuring fast lookup, command parsing, modular architecture, efficient data handling, and systems-focused design. | C | ★ 1 | — |
+| [Northhold](https://github.com/mikuchansudo/Northhold) | Multithreaded job queue and worker pool in C featuring task scheduling, mutex synchronization, thread coordination, and scalable concurrent systems design. | C | ★ 1 | — |
+| [StoneCache](https://github.com/mikuchansudo/StoneCache) | High-performance LRU cache engine written in C with efficient key-value storage, automatic least-recently-used eviction, linked-list memory management, and modular systems-oriented design. | C | ★ 1 | — |
+| [Vermithor](https://github.com/mikuchansudo/Vermithor) | x86-64 Assembly and C toolkit for exploring executable headers, binary sections, and raw byte structure. | C | ★ 1 | — |
 <!-- projects:end -->
 
 ---
@@ -53,14 +53,14 @@ embedded systems, low-level tooling, and performance-critical infrastructure.
 <!-- stats:start -->
 | metric | value |
 |---|---|
-| public repos | — |
-| total stars | — |
-| commits this year | — |
-| pull requests | — |
-| issues opened | — |
-| total contributions | — |
-| followers | — |
-| following | — |
+| public repos | 15 |
+| total stars | 14 |
+| commits this year | 53 |
+| pull requests | 0 |
+| issues opened | 0 |
+| total contributions | 65 |
+| followers | 5 |
+| following | 18 |
 <!-- stats:end -->
 
 <p align="center">
@@ -77,7 +77,11 @@ embedded systems, low-level tooling, and performance-critical infrastructure.
 ## languages
 
 <!-- languages:start -->
-_will populate on first run_
+`C               ` ████████████░░░░░░░░  60.0%
+`HTML            ` ███░░░░░░░░░░░░░░░░░  13.3%
+`TypeScript      ` █░░░░░░░░░░░░░░░░░░░   6.7%
+`JavaScript      ` █░░░░░░░░░░░░░░░░░░░   6.7%
+`Kotlin          ` █░░░░░░░░░░░░░░░░░░░   6.7%
 <!-- languages:end -->
 
 ---
@@ -94,6 +98,6 @@ _will populate on first run_
   <a href="https://github.com/mikuchansudo">github.com/mikuchansudo</a>
   &nbsp;·&nbsp;
   <!-- updated:start -->
-  _Last updated: —_
-  <!-- updated:end -->
+_Last updated: 01 May 2026, 01:14 UTC_
+<!-- updated:end -->
 </p>
