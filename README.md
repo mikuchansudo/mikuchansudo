@@ -18,7 +18,7 @@ embedded systems, low-level tooling, and performance-critical infrastructure.
 
 ## stack
 
-!(https://img.shields.io/badge/C-1D9E75?style=flat&logoColor=white&logo=c)
+![C](https://img.shields.io/badge/C-1D9E75?style=flat&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/x86--64_Assembly-0F6E56?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-085041?style=flat&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-444441?style=flat&logo=python&logoColor=white)
