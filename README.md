@@ -1,7 +1,7 @@
 <h1 align="center">Sudeep Surendran</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1800&color=1D9E75&center=true&vCenter=true&width=500&lines=low-level+systems+programmer;C+%7C+x86-64+assembly+%7C+Linux;memory+management+%7C+performance;former+Amazon+%26+Oracle+ops" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1800&color=1D9E75&center=true&vCenter=true&width=500&lines=low-level+systems+programmer;C+%7C+x86-64+assembly+%7C+Linux;memory+management+%7C+performance" alt="Typing SVG" />
 </p>
 
 <p align="center">
