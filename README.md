@@ -52,14 +52,13 @@ embedded systems, low-level tooling, and performance-critical infrastructure.
 <!-- stats:end -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikuchansudo&show_icons=true&theme=transparent&hide_border=true&title_color=1D9E75&text_color=5F5E5A&icon_color=1D9E75" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikuchansudo&layout=compact&theme=transparent&hide_border=true&title_color=1D9E75&text_color=5F5E5A" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mikuchansudo&show_icons=true&theme=transparent&hide_border=true&title_color=1D9E75&text_color=5F5E5A&icon_color=1D9E75&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikuchansudo&layout=compact&theme=transparent&hide_border=true&title_color=1D9E75&text_color=5F5E5A&cache_seconds=1800" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mikuchansudo&theme=transparent&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=5F5E5A&dates=888780" />
+  <img src="https://streak-stats.demolab.com?user=mikuchansudo&theme=transparent&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=5F5E5A&dates=888780&cache_seconds=1800" />
 </p>
-
 ---
 
 ## languages
