@@ -13,7 +13,7 @@
 ## about
 
 Systems programmer with operations background at Amazon and Oracle.
-I write tight C and x86-64 assembly — code that runs close to the metal,
+I write tight C and x86-64 assembly, code that runs close to the metal,
 with explicit memory control and predictable performance. Interested in
 embedded systems, low-level tooling, and performance-critical infrastructure.
 
