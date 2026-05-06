@@ -26,12 +26,12 @@ embedded systems, low-level tooling, and performance-critical infrastructure.
 <!-- projects:start -->
 | project | description | lang | stars | forks |
 |---|---|---|---|---|
+| [Skadi](https://github.com/mikuchansudo/Skadi) | A modular, terminal-first Linux dashboard toolkit written in C, built around ncurses, POSIX, and /proc. | C | ★ 1 | — |
 | [AshenShell](https://github.com/mikuchansudo/AshenShell) | Minimal Unix shell written in C featuring command parsing, process execution using fork/exec, and built-in command handling (cd, exit) for Linux environments. | C | ★ 1 | — |
+| [mikuchansudo](https://github.com/mikuchansudo/mikuchansudo) | — | Python | ★ 1 | — |
 | [HttpServe](https://github.com/mikuchansudo/HttpServe) | Minimal HTTP server written in C featuring socket handling, request parsing, routing logic, and structured response generation for Linux-based systems. | C | ★ 1 | — |
 | [NetProbe](https://github.com/mikuchansudo/NetProbe) | Network diagnostics tool written in C featuring DNS resolution, port checks, latency testing, and modular Linux-focused systems design. | C | ★ 1 | — |
 | [RedKeep](https://github.com/mikuchansudo/RedKeep) | In-memory key-value store written in C featuring fast lookup, command parsing, modular architecture, efficient data handling, and systems-focused design. | C | ★ 1 | — |
-| [Northhold](https://github.com/mikuchansudo/Northhold) | Multithreaded job queue and worker pool in C featuring task scheduling, mutex synchronization, thread coordination, and scalable concurrent systems design. | C | ★ 1 | — |
-| [StoneCache](https://github.com/mikuchansudo/StoneCache) | High-performance LRU cache engine written in C with efficient key-value storage, automatic least-recently-used eviction, linked-list memory management, and modular systems-oriented design. | C | ★ 1 | — |
 <!-- projects:end -->
 
 ---
@@ -41,13 +41,13 @@ embedded systems, low-level tooling, and performance-critical infrastructure.
 <!-- stats:start -->
 | metric | value |
 |---|---|
-| public repos | 16 |
-| total stars | 15 |
-| commits this year | 76 |
+| public repos | 17 |
+| total stars | 17 |
+| commits this year | 80 |
 | pull requests | 2 |
 | issues opened | 0 |
-| total contributions | 94 |
-| followers | 4 |
+| total contributions | 99 |
+| followers | 5 |
 | following | 17 |
 <!-- stats:end -->
 
@@ -64,11 +64,11 @@ embedded systems, low-level tooling, and performance-critical infrastructure.
 ## languages
 
 <!-- languages:start -->
-`C               ` ████████████░░░░░░░░  62.5%
-`HTML            ` ██░░░░░░░░░░░░░░░░░░  12.5%
-`TypeScript      ` █░░░░░░░░░░░░░░░░░░░   6.2%
-`JavaScript      ` █░░░░░░░░░░░░░░░░░░░   6.2%
-`Kotlin          ` █░░░░░░░░░░░░░░░░░░░   6.2%
+`C               ` █████████████░░░░░░░  64.7%
+`HTML            ` ██░░░░░░░░░░░░░░░░░░  11.8%
+`Python          ` █░░░░░░░░░░░░░░░░░░░   5.9%
+`TypeScript      ` █░░░░░░░░░░░░░░░░░░░   5.9%
+`JavaScript      ` █░░░░░░░░░░░░░░░░░░░   5.9%
 <!-- languages:end -->
 
 ---
@@ -85,6 +85,6 @@ embedded systems, low-level tooling, and performance-critical infrastructure.
   <a href="https://github.com/mikuchansudo">github.com/mikuchansudo</a>
   &nbsp;·&nbsp;
   <!-- updated:start -->
-_Last updated: 06 May 2026, 08:11 UTC_
+_Last updated: 06 May 2026, 19:55 UTC_
 <!-- updated:end -->
 </p>
