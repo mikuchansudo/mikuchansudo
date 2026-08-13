@@ -43,10 +43,10 @@ embedded systems, low-level tooling, and performance-critical infrastructure.
 |---|---|
 | public repos | 17 |
 | total stars | 17 |
-| commits this year | 277 |
+| commits this year | 278 |
 | pull requests | 2 |
 | issues opened | 0 |
-| total contributions | 296 |
+| total contributions | 297 |
 | followers | 6 |
 | following | 18 |
 <!-- stats:end -->
@@ -85,6 +85,6 @@ embedded systems, low-level tooling, and performance-critical infrastructure.
   <a href="https://github.com/mikuchansudo">github.com/mikuchansudo</a>
   &nbsp;·&nbsp;
   <!-- updated:start -->
-_Last updated: 12 Aug 2026, 19:10 UTC_
+_Last updated: 13 Aug 2026, 07:14 UTC_
 <!-- updated:end -->
 </p>
