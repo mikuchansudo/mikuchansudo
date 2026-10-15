@@ -1,0 +1,7 @@
+<svg width="1920" height="82" viewBox="0 0 1920 82" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1920" height="82" rx="12" fill="#020B08"></rect>
+  <rect x="36" y="20" width="36" height="36" rx="8" stroke="#00FF66" stroke-width="3"></rect>
+  <path d="M47 30L56 38L47 46" stroke="#00FF66" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M59 47H66" stroke="#00FF66" stroke-width="3.2" stroke-linecap="round"></path>
+  <text x="92" y="50" fill="#00FF66" font-family="Fira Code, Consolas, monospace" font-size="28" font-weight="700">~/mikuchansudo</text>
+</svg>
