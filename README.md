@@ -1,18 +1,10 @@
 <h1 align="center">Sudeep Surendran</h1>
 
 
+<p align="center">
+  <img src="./terminal-header.svg" alt="mikuchansudo terminal header" width="100%" />
+</p>
 
-<!-- Hacker terminal header -->
-<table width="100%">
-  <tr>
-    <td align="left">
-      <code>🟢 ~/mikuchansudo</code>
-    </td>
-    <td align="right">
-      <code>● ONLINE</code>
-    </td>
-  </tr>
-</table>
 
 <!-- Animated terminal text -->
 <p align="center">
