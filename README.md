@@ -1,8 +1,22 @@
 <h1 align="center">Sudeep Surendran</h1>
 
 
+
+<!-- Hacker terminal header -->
+<table width="100%">
+  <tr>
+    <td align="left">
+      <code>🟢 ~/mikuchansudo</code>
+    </td>
+    <td align="right">
+      <code>● ONLINE</code>
+    </td>
+  </tr>
+</table>
+
+<!-- Animated terminal text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=Security+Researcher+%7C+Bug+Bounty+Hunter;Malware+Analysis+%26+Reverse+Engineering;C+%7C+x86-64+Assembly+%7C+Python+%7C+Linux;Binary+Analysis+%7C+Memory+Forensics;Low-Level+Systems+Programming;Breaking+Down+Code.+Understanding+Systems." alt="Cybersecurity Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=750&height=70&lines=Security+Researcher+%7C+Bug+Bounty+Hunter;Malware+Analysis+%26+Reverse+Engineering;C+%7C+x86-64+Assembly+%7C+Python+%7C+Linux;Binary+Analysis+%7C+Memory+Forensics;Low-Level+Systems+Programming" alt="Animated Hacker Terminal" />
 </p>
 
 ---
