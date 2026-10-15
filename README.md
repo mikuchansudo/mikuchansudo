@@ -1,18 +1,33 @@
 <h1 align="center">Sudeep Surendran</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1800&color=1D9E75&center=true&vCenter=true&width=500&lines=low-level+systems+programmer;C+%7C+x86-64+assembly+%7C+Linux;memory+management+%7C+performance" alt="Typing SVG" />
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=Security+Researcher+%7C+Bug+Bounty+Hunter;Malware+Analysis+%26+Reverse+Engineering;C+%7C+x86-64+Assembly+%7C+Python+%7C+Linux;Binary+Analysis+%7C+Memory+Forensics;Low-Level+Systems+Programming;Breaking+Down+Code.+Understanding+Systems." alt="Cybersecurity Typing Animation" />
+</p>
 
 ---
 
 ## about
 
-Systems programmer with operations background at Amazon and Oracle.
-I write tight C and x86-64 assembly, code that runs close to the metal,
-with explicit memory control and predictable performance. Interested in
-embedded systems, low-level tooling, and performance-critical infrastructure.
+Security researcher and low-level systems programmer focused on
+**malware analysis, reverse engineering, web application security,
+and vulnerability research**.
+
+Working with **C, x86-64 Assembly, Python, Linux, and Docker**,
+exploring executable internals, memory management, binary analysis,
+and operating system behavior.
+
+My security toolkit includes **Kali Linux, REMnux, Burp Suite,
+VMware, and Git**, supporting technical investigations and
+security research workflows.
+
+Beyond cybersecurity, I work in **AI training, LLM evaluation,
+agentic AI assessment, and technical QA**, with previous
+enterprise experience at **Amazon and Oracle**.
+
+Interested in understanding how systems work beneath the surface,
+identifying weaknesses, and building reliable low-level tools.
+
 
 ---
 
